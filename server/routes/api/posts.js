@@ -1,3 +1,4 @@
+// coloque a sua sting de conexão com o mongodb abaixo caso esteja usando o mongoAtlas
 const connString = '';
 const express = require('express');
 const mongodb = require('mongodb');
